@@ -2,7 +2,7 @@
 
 ## 📌 About the Project
 
-This project is a QA testing portfolio project based on real-world scenarios from the hotel and restaurant industry.
+This is a QA portfolio project based on a hypothetical restaurant management system inspired by real-world scenarios from my professional experience in hospitality.
 
 The main goal is to test a restaurant order management system designed to support communication between waiters, kitchen staff, and other restaurant operations.
 
